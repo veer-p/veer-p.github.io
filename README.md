@@ -1,2 +1,2 @@
-# veer-p.github.io
-veer's personal website
+# veer's personal website
+my little corner of the internet
